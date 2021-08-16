@@ -135,7 +135,7 @@ class NoteListScreen extends StatelessWidget{
                         ..onTap = () {
                           goToNoteEditScreen(context);
                         }),
-                  TextSpan(text: '" to add new note'),
+                  TextSpan(text: '" to add new movie'),
                 ],
               ),
             )
